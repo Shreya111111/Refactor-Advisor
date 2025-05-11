@@ -37,13 +37,22 @@ project/
 `Python refactor_advisor.py`
 ```bash
 python refactor_advisor.py --project-path ./your_project
-
+```
 With output directory for reports:
 
+```bash
 python refactor_advisor.py --project-path ./your_project --output-path ./refactor_reports
+```
+
 Optional arguments:
+
 --project-path: Path to the target Python project (required)
 
 --output-path: Where to save analysis results (optional)
 
 --chunk-size: Number of lines per chunk (default: 100)
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/541c9485-496c-4255-bf5d-e625635a6915" alt="image_3" width="45%" />
+  &nbsp;
+  <img src="https://github.com/user-attachments/assets/1be2dc62-130b-4e10-84e4-be061f990fe5" alt="image2" width="55%" />
+</p>

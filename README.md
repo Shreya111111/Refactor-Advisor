@@ -52,7 +52,7 @@ Optional arguments:
 
 --chunk-size: Number of lines per chunk (default: 100)
 
-##Results
+## Results
 <p align="center">
   <img src="https://github.com/user-attachments/assets/541c9485-496c-4255-bf5d-e625635a6915" alt="image_3" width="45%" />
   &nbsp;

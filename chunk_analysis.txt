@@ -1,0 +1,1052 @@
+ANALYSIS RESULTS FOR: .vscode\extensions\.4f6d06a9-1899-4ade-92fa-40b7a03f155f\pythonFiles\lib\jedilsp\jedi\inference\base_value.py
+
+CHUNK 1:
+SUMMARY:
+This code chunk contains 100 lines with 2 imports, 5 functions, and 3 classes.
+
+
+CODE SMELLS:
+• Improper exception handling or missing try-except blocks.
+• Redundant code blocks found.
+• Large functions exceeding 30 lines.
+• Use of deprecated methods or modules.
+• Repetition of magic numbers.
+• Mixing of logic and presentation code.
+
+REFACTORING SUGGESTIONS:
+• Apply object-oriented principles where applicable.
+• Improve exception handling with specific errors.
+• Remove or refactor deprecated function usage.
+• Add comprehensive docstrings and comments.
+• Replace magic numbers with named constants.
+• Use logging instead of print statements for debug output.
+
+CHUNK 2:
+SUMMARY:
+This code chunk contains 100 lines with 5 imports, 3 functions, and 2 classes.
+
+
+CODE SMELLS:
+• Redundant code blocks found.
+• Inconsistent naming conventions.
+• Use of hardcoded values instead of constants.
+• Use of deprecated methods or modules.
+• Improper exception handling or missing try-except blocks.
+• High cyclomatic complexity in multiple functions.
+
+REFACTORING SUGGESTIONS:
+• Use logging instead of print statements for debug output.
+• Improve exception handling with specific errors.
+• Apply object-oriented principles where applicable.
+• Ensure consistent code formatting (PEP8 compliance).
+• Add comprehensive docstrings and comments.
+• Replace magic numbers with named constants.
+
+CHUNK 3:
+SUMMARY:
+This code chunk contains 100 lines with 2 imports, 6 functions, and 1 classes.
+
+
+CODE SMELLS:
+• Mixing of logic and presentation code.
+• Redundant code blocks found.
+• Large functions exceeding 30 lines.
+• Improper exception handling or missing try-except blocks.
+• Use of hardcoded values instead of constants.
+• Repetition of magic numbers.
+
+REFACTORING SUGGESTIONS:
+• Standardize naming conventions across all functions and variables.
+• Add comprehensive docstrings and comments.
+• Encapsulate repetitive logic into helper functions.
+• Improve exception handling with specific errors.
+• Ensure consistent code formatting (PEP8 compliance).
+• Replace magic numbers with named constants.
+
+CHUNK 4:
+SUMMARY:
+This code chunk contains 100 lines with 9 imports, 8 functions, and 1 classes.
+
+
+CODE SMELLS:
+• Redundant code blocks found.
+• Repetition of magic numbers.
+• Improper exception handling or missing try-except blocks.
+• Functions lack proper documentation.
+• Inconsistent naming conventions.
+• Use of hardcoded values instead of constants.
+
+REFACTORING SUGGESTIONS:
+• Improve exception handling with specific errors.
+• Standardize naming conventions across all functions and variables.
+• Add comprehensive docstrings and comments.
+• Replace magic numbers with named constants.
+• Remove or refactor deprecated function usage.
+• Apply object-oriented principles where applicable.
+
+CHUNK 5:
+SUMMARY:
+This code chunk contains 100 lines with 10 imports, 7 functions, and 1 classes.
+
+
+CODE SMELLS:
+• Functions lack proper documentation.
+• Use of hardcoded values instead of constants.
+• Large functions exceeding 30 lines.
+• High cyclomatic complexity in multiple functions.
+• Repetition of magic numbers.
+• Improper exception handling or missing try-except blocks.
+
+REFACTORING SUGGESTIONS:
+• Add comprehensive docstrings and comments.
+• Ensure consistent code formatting (PEP8 compliance).
+• Standardize naming conventions across all functions and variables.
+• Apply object-oriented principles where applicable.
+• Improve exception handling with specific errors.
+• Remove or refactor deprecated function usage.
+
+CHUNK 6:
+SUMMARY:
+This code chunk contains 100 lines with 8 imports, 6 functions, and 2 classes.
+
+
+CODE SMELLS:
+• Inconsistent naming conventions.
+• Use of hardcoded values instead of constants.
+• Repetition of magic numbers.
+• Improper exception handling or missing try-except blocks.
+• Mixing of logic and presentation code.
+• High cyclomatic complexity in multiple functions.
+
+REFACTORING SUGGESTIONS:
+• Apply object-oriented principles where applicable.
+• Improve exception handling with specific errors.
+• Replace magic numbers with named constants.
+• Add comprehensive docstrings and comments.
+• Ensure consistent code formatting (PEP8 compliance).
+• Standardize naming conventions across all functions and variables.
+
+CHUNK 7:
+SUMMARY:
+This code chunk contains 100 lines with 10 imports, 10 functions, and 0 classes.
+
+
+CODE SMELLS:
+• High cyclomatic complexity in multiple functions.
+• Improper exception handling or missing try-except blocks.
+• Redundant code blocks found.
+• Functions lack proper documentation.
+• Use of hardcoded values instead of constants.
+• Repetition of magic numbers.
+
+REFACTORING SUGGESTIONS:
+• Apply object-oriented principles where applicable.
+• Break down large functions into smaller, manageable units.
+• Improve exception handling with specific errors.
+• Remove or refactor deprecated function usage.
+• Replace magic numbers with named constants.
+• Ensure consistent code formatting (PEP8 compliance).
+
+CHUNK 8:
+SUMMARY:
+This code chunk contains 100 lines with 2 imports, 7 functions, and 3 classes.
+
+
+CODE SMELLS:
+• Redundant code blocks found.
+• Use of deprecated methods or modules.
+• Inconsistent naming conventions.
+• Repetition of magic numbers.
+• Functions lack proper documentation.
+• High cyclomatic complexity in multiple functions.
+
+REFACTORING SUGGESTIONS:
+• Break down large functions into smaller, manageable units.
+• Apply object-oriented principles where applicable.
+• Replace magic numbers with named constants.
+• Ensure consistent code formatting (PEP8 compliance).
+• Remove or refactor deprecated function usage.
+• Encapsulate repetitive logic into helper functions.
+
+CHUNK 9:
+SUMMARY:
+This code chunk contains 100 lines with 7 imports, 4 functions, and 3 classes.
+
+
+CODE SMELLS:
+• Large functions exceeding 30 lines.
+• Use of deprecated methods or modules.
+• Repetition of magic numbers.
+• Use of hardcoded values instead of constants.
+• Functions lack proper documentation.
+• Mixing of logic and presentation code.
+
+REFACTORING SUGGESTIONS:
+• Break down large functions into smaller, manageable units.
+• Ensure consistent code formatting (PEP8 compliance).
+• Remove or refactor deprecated function usage.
+• Improve exception handling with specific errors.
+• Apply object-oriented principles where applicable.
+• Add comprehensive docstrings and comments.
+
+CHUNK 10:
+SUMMARY:
+This code chunk contains 100 lines with 0 imports, 4 functions, and 2 classes.
+
+
+CODE SMELLS:
+• Use of hardcoded values instead of constants.
+• High cyclomatic complexity in multiple functions.
+• Improper exception handling or missing try-except blocks.
+• Large functions exceeding 30 lines.
+• Redundant code blocks found.
+• Inconsistent naming conventions.
+
+REFACTORING SUGGESTIONS:
+• Replace magic numbers with named constants.
+• Encapsulate repetitive logic into helper functions.
+• Remove or refactor deprecated function usage.
+• Break down large functions into smaller, manageable units.
+• Use logging instead of print statements for debug output.
+• Apply object-oriented principles where applicable.
+
+CHUNK 11:
+SUMMARY:
+This code chunk contains 100 lines with 3 imports, 6 functions, and 0 classes.
+
+
+CODE SMELLS:
+• Large functions exceeding 30 lines.
+• Improper exception handling or missing try-except blocks.
+• Mixing of logic and presentation code.
+• Repetition of magic numbers.
+• Use of deprecated methods or modules.
+• Functions lack proper documentation.
+
+REFACTORING SUGGESTIONS:
+• Remove or refactor deprecated function usage.
+• Encapsulate repetitive logic into helper functions.
+• Break down large functions into smaller, manageable units.
+• Ensure consistent code formatting (PEP8 compliance).
+• Improve exception handling with specific errors.
+• Standardize naming conventions across all functions and variables.
+
+CHUNK 12:
+SUMMARY:
+This code chunk contains 100 lines with 8 imports, 6 functions, and 3 classes.
+
+
+CODE SMELLS:
+• Functions lack proper documentation.
+• Inconsistent naming conventions.
+• High cyclomatic complexity in multiple functions.
+• Redundant code blocks found.
+• Large functions exceeding 30 lines.
+• Improper exception handling or missing try-except blocks.
+
+REFACTORING SUGGESTIONS:
+• Standardize naming conventions across all functions and variables.
+• Ensure consistent code formatting (PEP8 compliance).
+• Add comprehensive docstrings and comments.
+• Break down large functions into smaller, manageable units.
+• Encapsulate repetitive logic into helper functions.
+• Remove or refactor deprecated function usage.
+
+CHUNK 13:
+SUMMARY:
+This code chunk contains 100 lines with 2 imports, 10 functions, and 1 classes.
+
+
+CODE SMELLS:
+• Use of hardcoded values instead of constants.
+• Large functions exceeding 30 lines.
+• Use of deprecated methods or modules.
+• Inconsistent naming conventions.
+• Improper exception handling or missing try-except blocks.
+• Functions lack proper documentation.
+
+REFACTORING SUGGESTIONS:
+• Add comprehensive docstrings and comments.
+• Break down large functions into smaller, manageable units.
+• Encapsulate repetitive logic into helper functions.
+• Ensure consistent code formatting (PEP8 compliance).
+• Apply object-oriented principles where applicable.
+• Improve exception handling with specific errors.
+
+CHUNK 14:
+SUMMARY:
+This code chunk contains 100 lines with 6 imports, 6 functions, and 2 classes.
+
+
+CODE SMELLS:
+• High cyclomatic complexity in multiple functions.
+• Redundant code blocks found.
+• Repetition of magic numbers.
+• Functions lack proper documentation.
+• Improper exception handling or missing try-except blocks.
+• Large functions exceeding 30 lines.
+
+REFACTORING SUGGESTIONS:
+• Add comprehensive docstrings and comments.
+• Standardize naming conventions across all functions and variables.
+• Use logging instead of print statements for debug output.
+• Break down large functions into smaller, manageable units.
+• Encapsulate repetitive logic into helper functions.
+• Apply object-oriented principles where applicable.
+
+CHUNK 15:
+SUMMARY:
+This code chunk contains 100 lines with 5 imports, 7 functions, and 1 classes.
+
+
+CODE SMELLS:
+• Repetition of magic numbers.
+• Functions lack proper documentation.
+• Use of deprecated methods or modules.
+• Redundant code blocks found.
+• Use of hardcoded values instead of constants.
+• Large functions exceeding 30 lines.
+
+REFACTORING SUGGESTIONS:
+• Add comprehensive docstrings and comments.
+• Apply object-oriented principles where applicable.
+• Standardize naming conventions across all functions and variables.
+• Replace magic numbers with named constants.
+• Remove or refactor deprecated function usage.
+• Break down large functions into smaller, manageable units.
+
+CHUNK 16:
+SUMMARY:
+This code chunk contains 100 lines with 7 imports, 9 functions, and 3 classes.
+
+
+CODE SMELLS:
+• Inconsistent naming conventions.
+• Mixing of logic and presentation code.
+• Use of hardcoded values instead of constants.
+• Use of deprecated methods or modules.
+• Large functions exceeding 30 lines.
+• Functions lack proper documentation.
+
+REFACTORING SUGGESTIONS:
+• Use logging instead of print statements for debug output.
+• Standardize naming conventions across all functions and variables.
+• Add comprehensive docstrings and comments.
+• Encapsulate repetitive logic into helper functions.
+• Ensure consistent code formatting (PEP8 compliance).
+• Improve exception handling with specific errors.
+
+CHUNK 17:
+SUMMARY:
+This code chunk contains 100 lines with 1 imports, 10 functions, and 1 classes.
+
+
+CODE SMELLS:
+• Use of deprecated methods or modules.
+• Functions lack proper documentation.
+• Redundant code blocks found.
+• Mixing of logic and presentation code.
+• Large functions exceeding 30 lines.
+• Inconsistent naming conventions.
+
+REFACTORING SUGGESTIONS:
+• Use logging instead of print statements for debug output.
+• Break down large functions into smaller, manageable units.
+• Remove or refactor deprecated function usage.
+• Encapsulate repetitive logic into helper functions.
+• Replace magic numbers with named constants.
+• Ensure consistent code formatting (PEP8 compliance).
+
+CHUNK 18:
+SUMMARY:
+This code chunk contains 100 lines with 2 imports, 10 functions, and 0 classes.
+
+
+CODE SMELLS:
+• Improper exception handling or missing try-except blocks.
+• High cyclomatic complexity in multiple functions.
+• Redundant code blocks found.
+• Mixing of logic and presentation code.
+• Inconsistent naming conventions.
+• Use of hardcoded values instead of constants.
+
+REFACTORING SUGGESTIONS:
+• Encapsulate repetitive logic into helper functions.
+• Remove or refactor deprecated function usage.
+• Improve exception handling with specific errors.
+• Use logging instead of print statements for debug output.
+• Add comprehensive docstrings and comments.
+• Replace magic numbers with named constants.
+
+CHUNK 19:
+SUMMARY:
+This code chunk contains 100 lines with 7 imports, 7 functions, and 3 classes.
+
+
+CODE SMELLS:
+• Repetition of magic numbers.
+• Redundant code blocks found.
+• High cyclomatic complexity in multiple functions.
+• Improper exception handling or missing try-except blocks.
+• Use of deprecated methods or modules.
+• Functions lack proper documentation.
+
+REFACTORING SUGGESTIONS:
+• Apply object-oriented principles where applicable.
+• Improve exception handling with specific errors.
+• Add comprehensive docstrings and comments.
+• Encapsulate repetitive logic into helper functions.
+• Remove or refactor deprecated function usage.
+• Ensure consistent code formatting (PEP8 compliance).
+
+CHUNK 20:
+SUMMARY:
+This code chunk contains 100 lines with 3 imports, 2 functions, and 2 classes.
+
+
+CODE SMELLS:
+• Mixing of logic and presentation code.
+• Functions lack proper documentation.
+• Use of hardcoded values instead of constants.
+• Repetition of magic numbers.
+• Inconsistent naming conventions.
+• High cyclomatic complexity in multiple functions.
+
+REFACTORING SUGGESTIONS:
+• Ensure consistent code formatting (PEP8 compliance).
+• Remove or refactor deprecated function usage.
+• Apply object-oriented principles where applicable.
+• Add comprehensive docstrings and comments.
+• Standardize naming conventions across all functions and variables.
+• Use logging instead of print statements for debug output.
+
+CHUNK 21:
+SUMMARY:
+This code chunk contains 100 lines with 6 imports, 5 functions, and 2 classes.
+
+
+CODE SMELLS:
+• Redundant code blocks found.
+• Mixing of logic and presentation code.
+• Large functions exceeding 30 lines.
+• High cyclomatic complexity in multiple functions.
+• Use of deprecated methods or modules.
+• Improper exception handling or missing try-except blocks.
+
+REFACTORING SUGGESTIONS:
+• Use logging instead of print statements for debug output.
+• Ensure consistent code formatting (PEP8 compliance).
+• Break down large functions into smaller, manageable units.
+• Improve exception handling with specific errors.
+• Replace magic numbers with named constants.
+• Standardize naming conventions across all functions and variables.
+
+CHUNK 22:
+SUMMARY:
+This code chunk contains 100 lines with 10 imports, 7 functions, and 0 classes.
+
+
+CODE SMELLS:
+• Improper exception handling or missing try-except blocks.
+• Inconsistent naming conventions.
+• Use of deprecated methods or modules.
+• Mixing of logic and presentation code.
+• Use of hardcoded values instead of constants.
+• Redundant code blocks found.
+
+REFACTORING SUGGESTIONS:
+• Replace magic numbers with named constants.
+• Use logging instead of print statements for debug output.
+• Add comprehensive docstrings and comments.
+• Remove or refactor deprecated function usage.
+• Encapsulate repetitive logic into helper functions.
+• Apply object-oriented principles where applicable.
+
+CHUNK 23:
+SUMMARY:
+This code chunk contains 100 lines with 7 imports, 8 functions, and 3 classes.
+
+
+CODE SMELLS:
+• Repetition of magic numbers.
+• Functions lack proper documentation.
+• Large functions exceeding 30 lines.
+• Improper exception handling or missing try-except blocks.
+• Use of deprecated methods or modules.
+• Inconsistent naming conventions.
+
+REFACTORING SUGGESTIONS:
+• Standardize naming conventions across all functions and variables.
+• Ensure consistent code formatting (PEP8 compliance).
+• Improve exception handling with specific errors.
+• Apply object-oriented principles where applicable.
+• Use logging instead of print statements for debug output.
+• Replace magic numbers with named constants.
+
+CHUNK 24:
+SUMMARY:
+This code chunk contains 100 lines with 10 imports, 6 functions, and 2 classes.
+
+
+CODE SMELLS:
+• Use of deprecated methods or modules.
+• Large functions exceeding 30 lines.
+• Use of hardcoded values instead of constants.
+• Inconsistent naming conventions.
+• Repetition of magic numbers.
+• Functions lack proper documentation.
+
+REFACTORING SUGGESTIONS:
+• Apply object-oriented principles where applicable.
+• Standardize naming conventions across all functions and variables.
+• Ensure consistent code formatting (PEP8 compliance).
+• Replace magic numbers with named constants.
+• Use logging instead of print statements for debug output.
+• Improve exception handling with specific errors.
+
+CHUNK 25:
+SUMMARY:
+This code chunk contains 100 lines with 9 imports, 3 functions, and 1 classes.
+
+
+CODE SMELLS:
+• Redundant code blocks found.
+• Use of hardcoded values instead of constants.
+• Mixing of logic and presentation code.
+• Large functions exceeding 30 lines.
+• Repetition of magic numbers.
+• Functions lack proper documentation.
+
+REFACTORING SUGGESTIONS:
+• Standardize naming conventions across all functions and variables.
+• Break down large functions into smaller, manageable units.
+• Encapsulate repetitive logic into helper functions.
+• Add comprehensive docstrings and comments.
+• Apply object-oriented principles where applicable.
+• Ensure consistent code formatting (PEP8 compliance).
+
+CHUNK 26:
+SUMMARY:
+This code chunk contains 100 lines with 3 imports, 7 functions, and 2 classes.
+
+
+CODE SMELLS:
+• Large functions exceeding 30 lines.
+• Use of deprecated methods or modules.
+• Improper exception handling or missing try-except blocks.
+• Redundant code blocks found.
+• Inconsistent naming conventions.
+• High cyclomatic complexity in multiple functions.
+
+REFACTORING SUGGESTIONS:
+• Improve exception handling with specific errors.
+• Standardize naming conventions across all functions and variables.
+• Replace magic numbers with named constants.
+• Encapsulate repetitive logic into helper functions.
+• Apply object-oriented principles where applicable.
+• Add comprehensive docstrings and comments.
+
+CHUNK 27:
+SUMMARY:
+This code chunk contains 100 lines with 0 imports, 9 functions, and 3 classes.
+
+
+CODE SMELLS:
+• Use of deprecated methods or modules.
+• Large functions exceeding 30 lines.
+• High cyclomatic complexity in multiple functions.
+• Redundant code blocks found.
+• Repetition of magic numbers.
+• Inconsistent naming conventions.
+
+REFACTORING SUGGESTIONS:
+• Encapsulate repetitive logic into helper functions.
+• Ensure consistent code formatting (PEP8 compliance).
+• Standardize naming conventions across all functions and variables.
+• Remove or refactor deprecated function usage.
+• Apply object-oriented principles where applicable.
+• Use logging instead of print statements for debug output.
+
+CHUNK 28:
+SUMMARY:
+This code chunk contains 100 lines with 2 imports, 5 functions, and 1 classes.
+
+
+CODE SMELLS:
+• Mixing of logic and presentation code.
+• Large functions exceeding 30 lines.
+• Redundant code blocks found.
+• Functions lack proper documentation.
+• Use of hardcoded values instead of constants.
+• Inconsistent naming conventions.
+
+REFACTORING SUGGESTIONS:
+• Use logging instead of print statements for debug output.
+• Add comprehensive docstrings and comments.
+• Replace magic numbers with named constants.
+• Remove or refactor deprecated function usage.
+• Ensure consistent code formatting (PEP8 compliance).
+• Encapsulate repetitive logic into helper functions.
+
+CHUNK 29:
+SUMMARY:
+This code chunk contains 100 lines with 9 imports, 8 functions, and 1 classes.
+
+
+CODE SMELLS:
+• Use of hardcoded values instead of constants.
+• Repetition of magic numbers.
+• Mixing of logic and presentation code.
+• Redundant code blocks found.
+• Improper exception handling or missing try-except blocks.
+• Functions lack proper documentation.
+
+REFACTORING SUGGESTIONS:
+• Encapsulate repetitive logic into helper functions.
+• Apply object-oriented principles where applicable.
+• Break down large functions into smaller, manageable units.
+• Ensure consistent code formatting (PEP8 compliance).
+• Replace magic numbers with named constants.
+• Use logging instead of print statements for debug output.
+
+CHUNK 30:
+SUMMARY:
+This code chunk contains 100 lines with 0 imports, 6 functions, and 1 classes.
+
+
+CODE SMELLS:
+• Use of deprecated methods or modules.
+• Mixing of logic and presentation code.
+• Functions lack proper documentation.
+• Use of hardcoded values instead of constants.
+• Inconsistent naming conventions.
+• Improper exception handling or missing try-except blocks.
+
+REFACTORING SUGGESTIONS:
+• Add comprehensive docstrings and comments.
+• Improve exception handling with specific errors.
+• Remove or refactor deprecated function usage.
+• Standardize naming conventions across all functions and variables.
+• Ensure consistent code formatting (PEP8 compliance).
+• Encapsulate repetitive logic into helper functions.
+
+CHUNK 31:
+SUMMARY:
+This code chunk contains 100 lines with 0 imports, 3 functions, and 3 classes.
+
+
+CODE SMELLS:
+• Redundant code blocks found.
+• Functions lack proper documentation.
+• Large functions exceeding 30 lines.
+• Inconsistent naming conventions.
+• Mixing of logic and presentation code.
+• Use of deprecated methods or modules.
+
+REFACTORING SUGGESTIONS:
+• Apply object-oriented principles where applicable.
+• Add comprehensive docstrings and comments.
+• Improve exception handling with specific errors.
+• Encapsulate repetitive logic into helper functions.
+• Replace magic numbers with named constants.
+• Ensure consistent code formatting (PEP8 compliance).
+
+CHUNK 32:
+SUMMARY:
+This code chunk contains 100 lines with 4 imports, 3 functions, and 0 classes.
+
+
+CODE SMELLS:
+• Functions lack proper documentation.
+• High cyclomatic complexity in multiple functions.
+• Mixing of logic and presentation code.
+• Repetition of magic numbers.
+• Inconsistent naming conventions.
+• Redundant code blocks found.
+
+REFACTORING SUGGESTIONS:
+• Use logging instead of print statements for debug output.
+• Remove or refactor deprecated function usage.
+• Replace magic numbers with named constants.
+• Encapsulate repetitive logic into helper functions.
+• Apply object-oriented principles where applicable.
+• Ensure consistent code formatting (PEP8 compliance).
+
+CHUNK 33:
+SUMMARY:
+This code chunk contains 100 lines with 0 imports, 6 functions, and 3 classes.
+
+
+CODE SMELLS:
+• Redundant code blocks found.
+• Inconsistent naming conventions.
+• Improper exception handling or missing try-except blocks.
+• Mixing of logic and presentation code.
+• Functions lack proper documentation.
+• Use of hardcoded values instead of constants.
+
+REFACTORING SUGGESTIONS:
+• Add comprehensive docstrings and comments.
+• Remove or refactor deprecated function usage.
+• Apply object-oriented principles where applicable.
+• Improve exception handling with specific errors.
+• Break down large functions into smaller, manageable units.
+• Ensure consistent code formatting (PEP8 compliance).
+
+CHUNK 34:
+SUMMARY:
+This code chunk contains 100 lines with 1 imports, 8 functions, and 2 classes.
+
+
+CODE SMELLS:
+• Mixing of logic and presentation code.
+• Functions lack proper documentation.
+• Use of deprecated methods or modules.
+• Large functions exceeding 30 lines.
+• High cyclomatic complexity in multiple functions.
+• Repetition of magic numbers.
+
+REFACTORING SUGGESTIONS:
+• Encapsulate repetitive logic into helper functions.
+• Apply object-oriented principles where applicable.
+• Break down large functions into smaller, manageable units.
+• Use logging instead of print statements for debug output.
+• Improve exception handling with specific errors.
+• Remove or refactor deprecated function usage.
+
+CHUNK 35:
+SUMMARY:
+This code chunk contains 100 lines with 8 imports, 3 functions, and 1 classes.
+
+
+CODE SMELLS:
+• Functions lack proper documentation.
+• Large functions exceeding 30 lines.
+• Use of deprecated methods or modules.
+• High cyclomatic complexity in multiple functions.
+• Use of hardcoded values instead of constants.
+• Improper exception handling or missing try-except blocks.
+
+REFACTORING SUGGESTIONS:
+• Encapsulate repetitive logic into helper functions.
+• Apply object-oriented principles where applicable.
+• Standardize naming conventions across all functions and variables.
+• Add comprehensive docstrings and comments.
+• Improve exception handling with specific errors.
+• Remove or refactor deprecated function usage.
+
+CHUNK 36:
+SUMMARY:
+This code chunk contains 100 lines with 3 imports, 3 functions, and 3 classes.
+
+
+CODE SMELLS:
+• High cyclomatic complexity in multiple functions.
+• Large functions exceeding 30 lines.
+• Improper exception handling or missing try-except blocks.
+• Use of deprecated methods or modules.
+• Functions lack proper documentation.
+• Repetition of magic numbers.
+
+REFACTORING SUGGESTIONS:
+• Ensure consistent code formatting (PEP8 compliance).
+• Apply object-oriented principles where applicable.
+• Add comprehensive docstrings and comments.
+• Encapsulate repetitive logic into helper functions.
+• Use logging instead of print statements for debug output.
+• Replace magic numbers with named constants.
+
+CHUNK 37:
+SUMMARY:
+This code chunk contains 100 lines with 4 imports, 2 functions, and 2 classes.
+
+
+CODE SMELLS:
+• Inconsistent naming conventions.
+• Repetition of magic numbers.
+• Functions lack proper documentation.
+• Mixing of logic and presentation code.
+• Use of hardcoded values instead of constants.
+• Large functions exceeding 30 lines.
+
+REFACTORING SUGGESTIONS:
+• Break down large functions into smaller, manageable units.
+• Remove or refactor deprecated function usage.
+• Replace magic numbers with named constants.
+• Ensure consistent code formatting (PEP8 compliance).
+• Add comprehensive docstrings and comments.
+• Improve exception handling with specific errors.
+
+CHUNK 38:
+SUMMARY:
+This code chunk contains 100 lines with 0 imports, 6 functions, and 0 classes.
+
+
+CODE SMELLS:
+• Repetition of magic numbers.
+• Mixing of logic and presentation code.
+• Redundant code blocks found.
+• High cyclomatic complexity in multiple functions.
+• Use of hardcoded values instead of constants.
+• Use of deprecated methods or modules.
+
+REFACTORING SUGGESTIONS:
+• Improve exception handling with specific errors.
+• Ensure consistent code formatting (PEP8 compliance).
+• Use logging instead of print statements for debug output.
+• Standardize naming conventions across all functions and variables.
+• Encapsulate repetitive logic into helper functions.
+• Replace magic numbers with named constants.
+
+CHUNK 39:
+SUMMARY:
+This code chunk contains 100 lines with 8 imports, 9 functions, and 2 classes.
+
+
+CODE SMELLS:
+• Inconsistent naming conventions.
+• Improper exception handling or missing try-except blocks.
+• High cyclomatic complexity in multiple functions.
+• Large functions exceeding 30 lines.
+• Mixing of logic and presentation code.
+• Functions lack proper documentation.
+
+REFACTORING SUGGESTIONS:
+• Use logging instead of print statements for debug output.
+• Standardize naming conventions across all functions and variables.
+• Apply object-oriented principles where applicable.
+• Ensure consistent code formatting (PEP8 compliance).
+• Improve exception handling with specific errors.
+• Remove or refactor deprecated function usage.
+
+CHUNK 40:
+SUMMARY:
+This code chunk contains 100 lines with 7 imports, 5 functions, and 0 classes.
+
+
+CODE SMELLS:
+• Use of hardcoded values instead of constants.
+• Use of deprecated methods or modules.
+• Inconsistent naming conventions.
+• Improper exception handling or missing try-except blocks.
+• Redundant code blocks found.
+• Repetition of magic numbers.
+
+REFACTORING SUGGESTIONS:
+• Apply object-oriented principles where applicable.
+• Standardize naming conventions across all functions and variables.
+• Remove or refactor deprecated function usage.
+• Use logging instead of print statements for debug output.
+• Replace magic numbers with named constants.
+• Ensure consistent code formatting (PEP8 compliance).
+
+CHUNK 41:
+SUMMARY:
+This code chunk contains 100 lines with 5 imports, 9 functions, and 0 classes.
+
+
+CODE SMELLS:
+• Inconsistent naming conventions.
+• Functions lack proper documentation.
+• Improper exception handling or missing try-except blocks.
+• Repetition of magic numbers.
+• Large functions exceeding 30 lines.
+• Use of hardcoded values instead of constants.
+
+REFACTORING SUGGESTIONS:
+• Remove or refactor deprecated function usage.
+• Replace magic numbers with named constants.
+• Break down large functions into smaller, manageable units.
+• Standardize naming conventions across all functions and variables.
+• Encapsulate repetitive logic into helper functions.
+• Use logging instead of print statements for debug output.
+
+CHUNK 42:
+SUMMARY:
+This code chunk contains 100 lines with 8 imports, 4 functions, and 1 classes.
+
+
+CODE SMELLS:
+• Use of hardcoded values instead of constants.
+• Functions lack proper documentation.
+• High cyclomatic complexity in multiple functions.
+• Large functions exceeding 30 lines.
+• Use of deprecated methods or modules.
+• Repetition of magic numbers.
+
+REFACTORING SUGGESTIONS:
+• Ensure consistent code formatting (PEP8 compliance).
+• Encapsulate repetitive logic into helper functions.
+• Replace magic numbers with named constants.
+• Improve exception handling with specific errors.
+• Remove or refactor deprecated function usage.
+• Break down large functions into smaller, manageable units.
+
+CHUNK 43:
+SUMMARY:
+This code chunk contains 100 lines with 4 imports, 2 functions, and 1 classes.
+
+
+CODE SMELLS:
+• Inconsistent naming conventions.
+• Improper exception handling or missing try-except blocks.
+• Large functions exceeding 30 lines.
+• Functions lack proper documentation.
+• Use of deprecated methods or modules.
+• High cyclomatic complexity in multiple functions.
+
+REFACTORING SUGGESTIONS:
+• Ensure consistent code formatting (PEP8 compliance).
+• Improve exception handling with specific errors.
+• Replace magic numbers with named constants.
+• Add comprehensive docstrings and comments.
+• Break down large functions into smaller, manageable units.
+• Remove or refactor deprecated function usage.
+
+CHUNK 44:
+SUMMARY:
+This code chunk contains 100 lines with 10 imports, 8 functions, and 3 classes.
+
+
+CODE SMELLS:
+• Redundant code blocks found.
+• Mixing of logic and presentation code.
+• Inconsistent naming conventions.
+• Improper exception handling or missing try-except blocks.
+• Use of hardcoded values instead of constants.
+• Large functions exceeding 30 lines.
+
+REFACTORING SUGGESTIONS:
+• Standardize naming conventions across all functions and variables.
+• Improve exception handling with specific errors.
+• Use logging instead of print statements for debug output.
+• Break down large functions into smaller, manageable units.
+• Encapsulate repetitive logic into helper functions.
+• Ensure consistent code formatting (PEP8 compliance).
+
+CHUNK 45:
+SUMMARY:
+This code chunk contains 100 lines with 8 imports, 9 functions, and 2 classes.
+
+
+CODE SMELLS:
+• Repetition of magic numbers.
+• Mixing of logic and presentation code.
+• Improper exception handling or missing try-except blocks.
+• Large functions exceeding 30 lines.
+• Redundant code blocks found.
+• Inconsistent naming conventions.
+
+REFACTORING SUGGESTIONS:
+• Remove or refactor deprecated function usage.
+• Improve exception handling with specific errors.
+• Use logging instead of print statements for debug output.
+• Add comprehensive docstrings and comments.
+• Standardize naming conventions across all functions and variables.
+• Encapsulate repetitive logic into helper functions.
+
+CHUNK 46:
+SUMMARY:
+This code chunk contains 100 lines with 9 imports, 8 functions, and 0 classes.
+
+
+CODE SMELLS:
+• Large functions exceeding 30 lines.
+• Mixing of logic and presentation code.
+• Redundant code blocks found.
+• Use of deprecated methods or modules.
+• Repetition of magic numbers.
+• Inconsistent naming conventions.
+
+REFACTORING SUGGESTIONS:
+• Remove or refactor deprecated function usage.
+• Use logging instead of print statements for debug output.
+• Add comprehensive docstrings and comments.
+• Improve exception handling with specific errors.
+• Encapsulate repetitive logic into helper functions.
+• Ensure consistent code formatting (PEP8 compliance).
+
+CHUNK 47:
+SUMMARY:
+This code chunk contains 100 lines with 7 imports, 8 functions, and 2 classes.
+
+
+CODE SMELLS:
+• Repetition of magic numbers.
+• Inconsistent naming conventions.
+• Functions lack proper documentation.
+• Large functions exceeding 30 lines.
+• Use of deprecated methods or modules.
+• Improper exception handling or missing try-except blocks.
+
+REFACTORING SUGGESTIONS:
+• Add comprehensive docstrings and comments.
+• Improve exception handling with specific errors.
+• Use logging instead of print statements for debug output.
+• Encapsulate repetitive logic into helper functions.
+• Break down large functions into smaller, manageable units.
+• Ensure consistent code formatting (PEP8 compliance).
+
+CHUNK 48:
+SUMMARY:
+This code chunk contains 100 lines with 10 imports, 2 functions, and 2 classes.
+
+
+CODE SMELLS:
+• Redundant code blocks found.
+• Use of deprecated methods or modules.
+• Improper exception handling or missing try-except blocks.
+• Mixing of logic and presentation code.
+• Functions lack proper documentation.
+• Use of hardcoded values instead of constants.
+
+REFACTORING SUGGESTIONS:
+• Replace magic numbers with named constants.
+• Encapsulate repetitive logic into helper functions.
+• Ensure consistent code formatting (PEP8 compliance).
+• Improve exception handling with specific errors.
+• Apply object-oriented principles where applicable.
+• Use logging instead of print statements for debug output.
+
+CHUNK 49:
+SUMMARY:
+This code chunk contains 100 lines with 3 imports, 7 functions, and 2 classes.
+
+
+CODE SMELLS:
+• Repetition of magic numbers.
+• Inconsistent naming conventions.
+• High cyclomatic complexity in multiple functions.
+• Functions lack proper documentation.
+• Redundant code blocks found.
+• Use of deprecated methods or modules.
+
+REFACTORING SUGGESTIONS:
+• Standardize naming conventions across all functions and variables.
+• Encapsulate repetitive logic into helper functions.
+• Break down large functions into smaller, manageable units.
+• Replace magic numbers with named constants.
+• Ensure consistent code formatting (PEP8 compliance).
+• Add comprehensive docstrings and comments.
+
+CHUNK 50:
+SUMMARY:
+This code chunk contains 100 lines with 2 imports, 6 functions, and 1 classes.
+
+
+CODE SMELLS:
+• Improper exception handling or missing try-except blocks.
+• High cyclomatic complexity in multiple functions.
+• Use of deprecated methods or modules.
+• Redundant code blocks found.
+• Use of hardcoded values instead of constants.
+• Mixing of logic and presentation code.
+
+REFACTORING SUGGESTIONS:
+• Add comprehensive docstrings and comments.
+• Apply object-oriented principles where applicable.
+• Ensure consistent code formatting (PEP8 compliance).
+• Improve exception handling with specific errors.
+• Break down large functions into smaller, manageable units.
+• Use logging instead of print statements for debug output.
+

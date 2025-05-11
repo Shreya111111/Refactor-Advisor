@@ -1,0 +1,3 @@
+awscli>=2.0.0
+amazon-q-cli>=1.0.0
+boto3>=1.24.0

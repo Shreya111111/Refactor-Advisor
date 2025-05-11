@@ -51,6 +51,8 @@ Optional arguments:
 --output-path: Where to save analysis results (optional)
 
 --chunk-size: Number of lines per chunk (default: 100)
+
+##Results
 <p align="center">
   <img src="https://github.com/user-attachments/assets/541c9485-496c-4255-bf5d-e625635a6915" alt="image_3" width="45%" />
   &nbsp;
